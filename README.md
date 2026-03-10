@@ -1,4 +1,4 @@
-# Telecom-X-Alura-2
+# Telecom-X-analisis-de-evasion-de-clientes-Parte-2
 Desafío del curso ALURA programa ONE
 
 # Proyecto: Predicción de Cancelación de Clientes en Telecomunicaciones
