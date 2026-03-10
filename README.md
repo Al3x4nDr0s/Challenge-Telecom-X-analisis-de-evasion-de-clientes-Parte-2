@@ -58,4 +58,4 @@ Se aplicaron técnicas de análisis exploratorio de datos (EDA), balanceo de cla
 - `README.md` → Este documento.  
 
 ## Autor
-Alejandro Cárdenas - Alura One
+Proyecto desarrollado por Alejandro Cárdenas - Alura ONE - Data Science LATAM.
