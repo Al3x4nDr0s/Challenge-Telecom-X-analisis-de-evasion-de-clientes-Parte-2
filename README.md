@@ -57,6 +57,5 @@ Se aplicaron técnicas de análisis exploratorio de datos (EDA), balanceo de cla
 - `datos-telecom-x.csv` → Datos originales sin manipulación.  
 - `README.md` → Este documento.  
 
-## Autores
-Víctor Fabián Farías Sarango
-Proyecto desarrollado como parte de análisis de Machine Learning aplicado a la retención de clientes.  
+## Autor
+Alejandro Cárdenas - Alura One
